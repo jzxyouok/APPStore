@@ -9,7 +9,7 @@ so:
 	3.导入项目并运行即可
 
 (由于模拟数据文件过大，请单独下载：[http://pan.baidu.com/s/1c0qfSi8](http://pan.baidu.com/s/1c0qfSi8 "服务器端数据"))
-
+（或者这个地址 [http://pan.baidu.com/share/link?shareid=1431850785&uk=1577851261](http://pan.baidu.com/share/link?shareid=1431850785&uk=1577851261 "服务器端数据")）
   该项目适合Android初学者或有一年开发经验的程序员，借鉴与学习，项目功能还未完全实现，
 本人会在工作之余完善项目。
 
