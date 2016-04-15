@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../WMiPlay.iml" filepath="$PROJECT_DIR$/../WMiPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social_sdk_library_project.iml" filepath="$PROJECT_DIR$/social_sdk_library_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xUtils/xUtils.iml" filepath="$PROJECT_DIR$/../xUtils/xUtils.iml" />
+    </modules>
+  </component>
+</project>

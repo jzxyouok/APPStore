@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indicatorcolor">#0084FF</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="tab_text_black">#272636</color>
+    <color name="bg_page">#ffebebeb</color>
+    <color name="line_color">#dbdae1</color>
+    <color name="menu_bg_normal">#EFEFEF</color>
+    <color name="menu_bg_press">#AAcecece</color>
+    <color name="xgo_press">#F2F2F2</color>
+    <color name="detail_screen_bg">#adadad</color>
+
+    <!-- 仿IOS底部菜单相关颜色 -->
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="page_title">#272636</color>
+
+    <color name="spots_dialog_color">@color/indicatorcolor</color>
+    <color name="userinfo_text">#A333</color>
+</resources>

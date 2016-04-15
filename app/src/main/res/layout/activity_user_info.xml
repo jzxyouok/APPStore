@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true">
+
+    <include layout="@layout/layout_title" />
+
+    <FrameLayout
+        android:layout_marginTop="15dp"
+        android:id="@+id/fl_userinfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_login" />
+
+
+    <FrameLayout
+        android:layout_marginTop="15dp"
+        android:id="@+id/fl_bind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_login" />
+
+    <RelativeLayout
+        android:layout_marginTop="15dp"
+        android:id="@+id/rl_exit_user"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#fff" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/line_color"
+            android:layout_alignParentTop="true"
+            />
+        
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exit_login"
+            android:textSize="16sp"
+            android:textColor="#Ef00"/>
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/line_color"
+            android:layout_alignParentBottom="true"
+            />
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <play.wm.ljb.com.wmiplay.view.PagerSlidingTabStrip
+        android:background="@color/menu_bg_normal"
+        android:id="@+id/tabs_strip"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/line_color"/>
+
+<!--    <android.support.v4.view.ViewPager-->
+      <play.wm.ljb.com.wmiplay.view.MorePageListenerViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

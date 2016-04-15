@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Wmi Store</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search">搜索</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="exit_go_out">再按一次退出</string>
+    <string name="please_select">请选择</string>
+    <string name="refresh">刷新</string>
+    <string name="browser">在浏览器中打开</string>
+
+    <string name="load_error">加载失败,点击重试</string>
+    <string name="load_more">加载中..</string>
+    <string name="load_empty">没有更多数据了</string>
+    <string name="tv_home">首页</string>
+    <string name="tv_setting">设置</string>
+    <string name="tv_theme">主题</string>
+    <string name="tv_scans">安装包管理</string>
+    <string name="tv_feedback">反馈</string>
+    <string name="tv_updates">检查更新</string>
+    <string name="tv_about">关于</string>
+    <string name="tv_exit">退出</string>
+    <string name="app_detail">应用详情</string>
+    <string name="app_detail_download">下载：</string>
+    <string name="app_detail_size">大小：</string>
+    <string name="app_detail_time">时间：</string>
+    <string name="app_detail_version">版本：</string>
+    <string name="app_detail_introduction">简介</string>
+    <string name="des_author">作者：</string>
+    <string name="collect">收藏</string>
+    <string name="share">分享</string>
+    <string name="download">下载</string>
+    <string name="exit">确认退出？</string>
+    <string name="enter">确定</string>
+    <string name="cancel">取消</string>
+    <string name="share_to_friends">分享给小伙伴</string>
+    <string name="welfare_cls">那些年我们追过的苍老师</string>
+    <string name="share_content">发现一款不错的开源APP，小伙伴们快来看看吧（高仿APP应用市场）</string>
+    <string name="share_url">http:www.xgo.com.cn</string>
+    <string name="share_title">福利来袭：高仿APP应用市场</string>
+    <string name="app_share_title">发现一款不错的APP,快来下载吧</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="user_login">用户登录</string>
+    <string name="forgot_pwd">忘记密码？</string>
+    <string name="username_pwd_null">用户名\\密码为空</string>
+    <string name="login_error">登录失败，请核对您的用户名\\密码.</string>
+    <string name="web_error">网页出错啦</string>
+    <string name="login_success">登录成功</string>
+    <string name="unknow_user">未知用户</string>
+    <string name="type_user_debug">测试用户</string>
+    <string name="type_user_wmi">Wmi用户</string>
+    <string name="type_user_qq">QQ用户</string>
+    <string name="type_user_wx">微信用户</string>
+    <string name="type_user_sina">新浪用户</string>
+    <string name="exit_login">退出登录</string>
+    <string name="exit_login2">确定要注销用户吗？</string>
+    <string name="user_info">个人信息</string>
+    <string name="head">头像：</string>
+    <string name="nickname">昵称：</string>
+    <string name="username_m">用户名：</string>
+    <string name="qq">QQ</string>
+    <string name="bind">绑定</string>
+    <string name="weixin">微信</string>
+    <string name="phone">手机</string>
+    <string name="take_photo">相机</string>
+    <string name="photo_lib">手机相册</string>
+    <string name="loging_text">正在登录...</string>
+    <string name="user_register">注册用户</string>
+    <string name="username_reversal">名户用</string>
+
+
+    <array name="tab_names">
+        <item>首页</item>
+        <item>应用</item>
+        <item>游戏</item>
+        <item>专题"</item>
+        <item>分类"</item>
+        <item>火热</item>
+        <item>福利</item>
+    </array>
+
+    <array name="menu_items_text">
+        <item>首页</item>
+        <item>设置</item>
+        <item>主题</item>
+        <item>安装包管理"</item>
+        <item>反馈"</item>
+        <item>检查更新</item>
+        <item>关于</item>
+        <item>退出</item>
+    </array>
+
+</resources>
